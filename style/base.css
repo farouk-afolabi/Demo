@@ -1,0 +1,29 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Anta", sans-serif;
+    font-size: 62.5%;
+    
+}
+
+h1,
+h2,
+h3 {
+    line-height: 1.2 ;
+    color: #260ed6; 
+}
+p {
+    color: #280303;
+}
+img {
+    max-width:100%;
+    overflow: none;
+    line-height: 1.6;
+}
+.clear {
+    clear:both
+}
